@@ -1,0 +1,4 @@
+com\library\store\model\Book.class
+com\library\store\LibararyWsApplication.class
+com\library\store\repo\BookRepository.class
+com\library\store\controller\BookController.class

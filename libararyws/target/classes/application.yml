@@ -1,0 +1,13 @@
+server:
+  port: 8083
+
+spring:
+  application:
+    name: LibraryWS
+
+  datasource:
+    url: jdbc:postgresql://localhost/storedb
+    username: postgres
+    password: admin
+  jpa:
+    generate-ddl: true
